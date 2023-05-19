@@ -1,0 +1,22 @@
+.error{
+    font-size: 25px;
+    color: rgb(255, 84, 84);
+    padding: 30px;
+    text-align: center;
+}
+
+.oturn{
+    color: aqua;
+    text-decoration: solid;
+    font-size: 150px;
+}
+
+.xturn{
+    color: red;
+    text-decoration: solid;
+    font-size: 150px;
+}
+
+.won{
+    font-size: 100px;
+}
